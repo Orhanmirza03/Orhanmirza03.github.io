@@ -1,4 +1,84 @@
-CaptainIncognito
+[CaptainIncognito](#top)
 
+- [Projects](#projects)
+- [You can't see with blind eyes](#about)
+- [orkhanmirzayev222@gmail.com](#contact)
+- 
 
-<img width="500" height="250" alt="Screenshot 2026-10-11 233225" src="https://github.com/user-attachments/assets/8a09cfac-56fc-433a-aa00-8f25b7c11dcd" />
+# CaptainIncognito
+
+\[Ph.D. student, enthusiastic]. I \[build / design / write\] \[system] and I'm learning \[python].
+
+[See my projects](#projects) [Get in touch](#contact)
+
+Crab fishing vessel Scandies Rose motoring past a wooded shoreline
+
+## Projects
+
+A few things I've made. Each one follows the same layout so they're easy to compare.
+
+### \[Project one title\]
+
+\[Two or three sentences: what you built, why, and what you learned.\]
+
+[View details](#)
+
+Type
+
+\[Personal project\]
+
+Tools
+
+\[Tool, tool, tool\]
+
+Date
+
+\[Month Year\]
+
+Status
+
+\[Finished / In progress\]
+
+### \[Project two title\]
+
+\[Two or three sentences about this project.\]
+
+[View details](#)
+
+Type
+
+\[Group project\]
+
+Tools
+
+\[Tool, tool, tool\]
+
+Date
+
+\[Month Year\]
+
+Status
+
+\[In progress\]
+
+## About
+
+\[A short paragraph about who you are, what you're studying or working on, and what you want to do next.\]
+
+\[Optional: a second paragraph about interests outside work.\]
+
+## Skills
+
+- \[Skill one\]
+- \[Skill two\]
+- \[Skill three\]
+- \[Skill four\]
+
+## Contact
+
+The best way to reach me is by email.
+
+- [orkhanmirzayev222@gmail.com](mailto:orkhanmirzayev222@gmail.com)
+- [GitHub](https://github.com/your-username)
+
+© 2026 CaptainIncognito. Hosted on GitHub Pages.
