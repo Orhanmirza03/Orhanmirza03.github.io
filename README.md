@@ -3,11 +3,10 @@
 - [Projects](#projects)
 - [You can't see with blind eyes](#about)
 - [orkhanmirzayev222@gmail.com](#contact)
-- 
 
 # CaptainIncognito
 
-\[Ph.D. student, enthusiastic]. I \[build / design / write\] \[system] and I'm learning \[python].
+Ph.D. student, enthusiastic. I build / design / write system and I'm learning python.
 
 [See my projects](#projects) [Get in touch](#contact)
 
@@ -17,7 +16,7 @@ Crab fishing vessel Scandies Rose motoring past a wooded shoreline
 
 A few things I've made. Each one follows the same layout so they're easy to compare.
 
-### \[Project one title\]
+### \AI-Augmented navigation tools
 
 \[Two or three sentences: what you built, why, and what you learned.\]
 
