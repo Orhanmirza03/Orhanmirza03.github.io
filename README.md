@@ -81,9 +81,5 @@ The best way to reach me is by email.
 - [GitHub](https://github.com/your-username)
 
 © 2026 CaptainIncognito. Hosted on GitHub Pages.
-  margin-top: 40px;
-  padding-top: 15px;
-  border-top: 1px solid #ddd;
-  font-size: 0.9em;
   color: #666;
 }
