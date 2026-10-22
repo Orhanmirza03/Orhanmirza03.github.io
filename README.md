@@ -10,7 +10,6 @@ Ph.D. student, enthusiastic. I build / design / write system and I'm learning py
 
 [See my projects](#projects) [Get in touch](#contact)
 
-Crab fishing vessel Scandies Rose motoring past a wooded shoreline
 
 ## Projects
 
