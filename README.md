@@ -17,7 +17,7 @@ A few things I've made. Each one follows the same layout so they're easy to comp
 
 ### AI-Augmented navigation tools, (research project)
 
-\Background and Context 
+Background and Context 
 The rapid deployment of offshore wind farms (OWFs) across the North Sea, Baltic Sea, and 
 beyond has created structurally constrained maritime corridors in which collision risk is already 
 elevated relative to open water.  
@@ -33,7 +33,7 @@ advances in deep learning for radar target tracking (Ghofur & Riyanto, 2025) and
 (XAI) interfaces create opportunities for ECDIS augmentation that were previously impractical. 
 Yet no published study has experimentally validated AI-integrated ECDIS specifically for 
 OWEA transit scenarios, creating a critical evidence gap for regulators, operators, and 
-technology developers. \
+technology developers. 
 
 [View details](#)
 
