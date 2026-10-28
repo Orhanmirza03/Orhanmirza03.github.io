@@ -32,8 +32,6 @@ A group project for managing port-service requests, availability, vessel reserva
 
 #### Demo Version
 
-![Port services app demo business model](assets/port-services/port-services-image-4-business-model.png)
-
 ![Port services app demo screen 3](assets/port-services/port-services-image-3.png)
 
 ![Port services app demo screen 2](assets/port-services/port-services-image-2.png)
