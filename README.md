@@ -16,8 +16,8 @@ The rapid deployment of offshore wind farms has created structurally constrained
 - **Tools:** MATLAB, GitHub
 - **Date:** TODO
 - **Status:** In progress
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/ff86eb7f-3d8f-4dec-a832-4d5120b97fd9" />
 
-- <img width="450" height="200" alt="image" src="https://github.com/user-attachments/assets/257de141-4601-4355-8603-3e912b20d8c2" />
 
 
 ### Customer-Centric App for Port Services
