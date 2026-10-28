@@ -17,6 +17,9 @@ The rapid deployment of offshore wind farms has created structurally constrained
 - **Date:** TODO
 - **Status:** In progress
 
+- <img width="450" height="2500" alt="image" src="https://github.com/user-attachments/assets/257de141-4601-4355-8603-3e912b20d8c2" />
+
+
 ### Customer-Centric App for Port Services
 
 A group project for managing port-service requests, availability, vessel reservations, operational documentation, and invoicing.
