@@ -51,11 +51,11 @@ Date
 
 Status
 
-\ In progress
+In progress
 
-### \[Customer Centric App for Port Services\]
+### Customer Centric App for Port Services
 
-\ 1)	A customer initiates a service request via email inquiry  (10 inquiries per week)
+1)	A customer initiates a service request via email inquiry  (10 inquiries per week)
 a)	Needed: start time and end time (end time depends on service)
 b)	Service interval unit 1hour
 c)	Start time is brutto time
@@ -74,9 +74,9 @@ ii)	Bigger ships can’t leave an are designd to be in it.
 6)	 The crew fills documents about the time spent and fuel used 
 7)	The sales representative consolidates the data into the internal document management system 
 8)	Accounting generates an invoice based on the compiled documentation.
-\
 
-[View details](#)
+[<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/d5a3619e-9530-44bb-822c-9530c387c4aa" />
+](#)
 
 Type
 
@@ -88,11 +88,11 @@ Tools
 
 Date
 
-\29/09/2024
+29/09/2024
 
 Status
 
-\ Finished
+Finished
 
 ## About
 
