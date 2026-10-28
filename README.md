@@ -75,8 +75,14 @@ ii)	Bigger ships can’t leave an are designd to be in it.
 7)	The sales representative consolidates the data into the internal document management system 
 8)	Accounting generates an invoice based on the compiled documentation.
 
+
+                                                              Demo version
+  	
 [<img width="800" height="475" alt="image" src="https://github.com/user-attachments/assets/d5a3619e-9530-44bb-822c-9530c387c4aa" />
 ](#)
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/c5618493-1c2b-4369-a066-436f9aa26a2a" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/5c13dcbb-7b34-40c5-adab-c9c58fff87db" />
+
 
 Type
 
