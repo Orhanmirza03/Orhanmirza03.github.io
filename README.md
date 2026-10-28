@@ -43,7 +43,7 @@ Type
 
 Tools
 
-\[Tool, tool, tool\]
+\MATLAB, GITHUB
 
 Date
 
@@ -51,11 +51,11 @@ Date
 
 Status
 
-\[Finished / In progress\]
+\ In progress
 
 ### \[Customer Centric App for Port Services\]
 
-\[1)	A customer initiates a service request via email inquiry  (10 inquiries per week)
+\ 1)	A customer initiates a service request via email inquiry  (10 inquiries per week)
 a)	Needed: start time and end time (end time depends on service)
 b)	Service interval unit 1hour
 c)	Start time is brutto time
@@ -74,7 +74,7 @@ ii)	Bigger ships can’t leave an are designd to be in it.
 6)	 The crew fills documents about the time spent and fuel used 
 7)	The sales representative consolidates the data into the internal document management system 
 8)	Accounting generates an invoice based on the compiled documentation.
-\]
+\
 
 [View details](#)
 
@@ -88,24 +88,30 @@ Tools
 
 Date
 
-\[Month Year\]
+\29/09/2024
 
 Status
 
-\[In progress\]
+\ Finished
 
 ## About
 
-\[A short paragraph about who you are, what you're studying or working on, and what you want to do next.\]
+\I have Master’s degree in Shipping & Port Engineering (Seaport Management) at Klaipėda University, combining academic excellence with hands-on experience in navigation as a cadet in private companies, port operations, logistics, and with practical exposure in terminal operations at DFDS
 
-\[Optional: a second paragraph about interests outside work.\]
+I hold a Bachelor’s in Marine Navigation Engineering from the Azerbaijan State Marine Academy and bring 2 years of sailing experience. My work and study across multiple countries have strengthened my ability to operate in multicultural, high-pressure environments and adapt quickly to evolving challenges in the maritime sector.
+
+
+Beyond the maritime field, I am committed to youth empowerment, having dedicated 2 years to volunteering, leadership development, and mentorship—skills that translate into effective teamwork, stakeholder engagement, and cross-cultural communication. My research interests are Sustainable Port Infrastructure, Offshore Wind Development, Green and Digital Port Operations, Maritime Transport and Logistics, Nature-Inclusive Design in Marine Engineering— areas where I have active projects and competition track records, including a nationally recognised win at WindEurope Madrid 2026 with the Acousto-Reef Harmony System (ARHS)
 
 ## Skills
 
-- \[Skill one\]
-- \[Skill two\]
-- \[Skill three\]
-- \[Skill four\]
+- Maritime Safety
+- Maritime Operations
+- International Shipping
+- AutoCAD
+- Radar plotting
+- GMDSS
+- ECDIS
 
 ## Contact
 
@@ -113,5 +119,6 @@ The best way to reach me is by email.
 
 - [orkhanmirzayev222@gmail.com](mailto:orkhanmirzayev222@gmail.com)
 - [GitHub](https://github.com/your-username)
+- [Youtube](https://youtube.com/@orhannmirza?si=6TD1Xo3FfIh3_y2R)
 
 © 2026 CaptainIncognito. Hosted on GitHub Pages.
