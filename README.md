@@ -32,11 +32,13 @@ A group project for managing port-service requests, availability, vessel reserva
 
 #### Demo Version
 
-![Port services app demo](https://github.com/user-attachments/assets/659a255e-006f-47f0-adce-f6dba82f7c70")
+![Port services app demo business model](assets/port-services/port-services-image-4-business-model.png)
 
-![Port services app demo](https://github.com/user-attachments/assets/c5618493-1c2b-4369-a066-436f9aa26a2a)
+![Port services app demo screen 3](assets/port-services/port-services-image-3.png)
 
-![Port services app demo](https://github.com/user-attachments/assets/5c13dcbb-7b34-40c5-adab-c9c58fff87db)
+![Port services app demo screen 2](assets/port-services/port-services-image-2.png)
+
+![Port services app demo screen 1](assets/port-services/port-services-image-1.png)
 
 - **Type:** Group project
 - **Tools:** [Supabase](https://supabase.com/)
