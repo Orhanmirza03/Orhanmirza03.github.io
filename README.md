@@ -32,7 +32,7 @@ A group project for managing port-service requests, availability, vessel reserva
 
 #### Demo Version
 
-![Port services app demo](images/port-app.png)
+![Port services app demo](https://github.com/user-attachments/assets/659a255e-006f-47f0-adce-f6dba82f7c70")
 
 ![Port services app demo](https://github.com/user-attachments/assets/c5618493-1c2b-4369-a066-436f9aa26a2a)
 
