@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="CaptainIncognito portfolio with projects, about, skills, and contact information.">
+  <title>CaptainIncognito</title>
+  <link rel="stylesheet" href="github-style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <a class="brand" href="#overview">CaptainIncognito</a>
+      <nav aria-label="Primary navigation">
+        <ul class="nav-list">
+          <li><a href="#overview">Overview</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="overview" class="container layout">
+    <aside class="sidebar" aria-label="Profile sidebar">
+      <img class="avatar" src="https://avatars.githubusercontent.com/u/267426063?v=4" alt="CaptainIncognito profile avatar">
+      <h1>CaptainIncognito</h1>
+      <p class="username">Orhanmirza03</p>
+      <p class="bio">Ph.D. student, enthusiastic. I build / design / write system and I'm learning python.</p>
+      <div class="sidebar-actions">
+        <a class="button" href="#projects">See my projects</a>
+        <a class="button" href="#contact">Get in touch</a>
+      </div>
+      <section id="contact" class="contact-links" aria-label="Contact links">
+        <h2>Contact</h2>
+        <ul>
+          <li><a href="mailto:orkhanmirzayev222@gmail.com">Email</a></li>
+          <li><a href="https://github.com/Orhanmirza03">GitHub</a></li>
+          <li><a href="https://youtube.com/@orhannmirza">YouTube</a></li>
+        </ul>
+      </section>
+    </aside>
+
+    <section class="main-content">
+      <section id="projects" class="panel-section">
+        <h2>Projects</h2>
+        <p>A few things I've made. Each one follows the same layout so they're easy to compare.</p>
+        <div class="project-grid">
+          <article class="project-card">
+            <div class="card-head">
+              <h3><a href="/README.md#ai-augmented-navigation-tools-research-project">AI-Augmented Navigation Tools (Research Project)</a></h3>
+              <span class="status-badge">In progress</span>
+            </div>
+            <p>The rapid deployment of offshore wind farms has created structurally constrained maritime corridors where collision risk is elevated. ECDIS remains a primary navigational decision-support tool, but its use near offshore wind farms is limited by radar degradation caused by clutter and shadowing, weak integration of probabilistic risk models with real-time sensor fusion, and opaque alerts that can hinder operator trust. Standard systems also do not learn from historical traffic patterns to predict vessel intentions in constrained waterways. Artificial intelligence could help address these limitations through improved sensor fusion, risk modelling, alert explanation, and traffic-pattern analysis.</p>
+            <dl class="card-meta">
+              <div><dt>Type</dt><dd>Personal project</dd></div>
+              <div><dt>Tools</dt><dd>MATLAB, GitHub</dd></div>
+            </dl>
+          </article>
+
+          <article class="project-card">
+            <div class="card-head">
+              <h3><a href="/README.md#customer-centric-app-for-port-services">Customer-Centric App for Port Services</a></h3>
+              <span class="status-badge finished">Finished</span>
+            </div>
+            <p>A group project for managing port-service requests, availability, vessel reservations, operational documentation, and invoicing.</p>
+            <ol>
+              <li>A customer initiates a service request by email inquiry.</li>
+              <li>A sales representative checks the availability of the services and responds with an application form.</li>
+              <li>The customer completes the form and submits it with advance payment confirmation.</li>
+              <li>The sales representative notifies the relevant internal department to reserve the necessary vessel.</li>
+              <li>The customer coordinates directly with the vessel crew in case of changes, although the port authority does not want that.</li>
+              <li>The crew fills in documents about the time spent and fuel used.</li>
+              <li>The sales representative consolidates the data into the internal document management system.</li>
+              <li>Accounting generates an invoice based on the compiled documentation.</li>
+            </ol>
+            <h4>Demo Version</h4>
+            <div class="demo-grid">
+              <img src="https://github.com/user-attachments/assets/659a255e-006f-47f0-adce-f6dba82f7c70&quot;" alt="Port services app demo image reference 1">
+              <img src="https://github.com/user-attachments/assets/c5618493-1c2b-4369-a066-436f9aa26a2a" alt="Port services app demo image reference 2">
+              <img src="https://github.com/user-attachments/assets/5c13dcbb-7b34-40c5-adab-c9c58fff87db" alt="Port services app demo image reference 3">
+            </div>
+            <dl class="card-meta">
+              <div><dt>Type</dt><dd>Group project</dd></div>
+              <div><dt>Tools</dt><dd><a href="https://supabase.com/">Supabase</a></dd></div>
+              <div><dt>Date</dt><dd>29/09/2024</dd></div>
+            </dl>
+          </article>
+        </div>
+      </section>
+
+      <section id="about" class="panel-section">
+        <h2>About</h2>
+        <div class="panel-box">
+          <p>I have Master’s degree in Shipping &amp; Port Engineering (Seaport Management) at Klaipėda University, combining academic excellence with hands-on experience in navigation as a cadet in private compan[...]</p>
+          <p>I hold a Bachelor’s in Marine Navigation Engineering from the Azerbaijan State Marine Academy and bring 2 years of sailing experience. My work and study across multiple countries have strengthened m[...]</p>
+          <p>Beyond the maritime field, I am committed to youth empowerment, having dedicated 2 years to volunteering, leadership development, and mentorship—skills that translate into effective teamwork, stakeh[...]</p>
+        </div>
+      </section>
+
+      <section class="panel-section">
+        <h2>Skills</h2>
+        <ul class="skills-list" aria-label="Skills">
+          <li>Maritime Safety</li>
+          <li>Maritime Operations</li>
+          <li>International Shipping</li>
+          <li>AutoCAD</li>
+          <li>Radar plotting</li>
+          <li>GMDSS</li>
+          <li>ECDIS</li>
+        </ul>
+      </section>
+    </section>
+  </main>
+
+  <footer class="container footer">
+    <p>© 2026 CaptainIncognito</p>
+  </footer>
+</body>
+</html>
