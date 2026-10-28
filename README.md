@@ -17,6 +17,7 @@ The rapid deployment of offshore wind farms has created structurally constrained
 - **Date:** TODO
 - **Status:** In progress
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/ff86eb7f-3d8f-4dec-a832-4d5120b97fd9" />
+<img width="160" height="90" alt="image" src="https://github.com/user-attachments/assets/e8b07709-069f-41bf-8ce4-a34ca282ae9e" />
 
 
 
