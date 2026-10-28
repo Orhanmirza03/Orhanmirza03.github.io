@@ -53,9 +53,28 @@ Status
 
 \[Finished / In progress\]
 
-### \[Project two title\]
+### \[Customer Centric App for Port Services\]
 
-\[Two or three sentences about this project.\]
+\[1)	A customer initiates a service request via email inquiry  (10 inquiries per week)
+a)	Needed: start time and end time (end time depends on service)
+b)	Service interval unit 1hour
+c)	Start time is brutto time
+d)	Round always UP
+e)	Starttime, how
+f)	Services
+i)	Vessel rent: departure time, place where staff is located and where to bring, # members, NOT needed: border regulations (customer owned), average distances (Butinge, Palanga, quay to LNG terminal); 2+1 pilot boats (7 guests+12), 2 vessels for delegations (only within port area)
+ii)	Diver rent:
+g)	Different vessels:
+i)	Pilot vessels can leave port area
+ii)	Bigger ships can’t leave an are designd to be in it.
+2)	A sales representative checks availability of the services and responds with an application form 
+3)	The customer completes the form and submits it with advance payment confirmation
+4)	 The sales representative notifies the relevant internal department to reserve the necessary vessel 
+5)	The customer coordinates directly with the vessel crew (in case of changes, but port authority doesn’t want that)
+6)	 The crew fills documents about the time spent and fuel used 
+7)	The sales representative consolidates the data into the internal document management system 
+8)	Accounting generates an invoice based on the compiled documentation.
+\]
 
 [View details](#)
 
@@ -65,7 +84,7 @@ Type
 
 Tools
 
-\[Tool, tool, tool\]
+\[https://supabase.com/)\]
 
 Date
 
